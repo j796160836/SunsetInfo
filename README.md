@@ -1,4 +1,4 @@
-# 夕陽小幫手
+# 夕陽小幫手（彩色版）
 
 「炎炎夏日學 Android」範例程式  
 
@@ -9,8 +9,13 @@
 
 ### app 實際畫面
 
+黑白版
+
 <img src="https://raw.githubusercontent.com/j796160836/SunsetInfo/master/screenshots/picture02.png" width="550" />
 
+彩色版
+
+<img src="https://raw.githubusercontent.com/j796160836/SunsetInfo/master_colorized/screenshots/picture03.png" width="550" />
 
 ### 使用範例地點座標
 
