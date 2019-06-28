@@ -4,6 +4,14 @@
 
 一個知道每天何時夕陽的 app，夕陽愛好者必備。  
 
+### 設計手稿
+<img src="https://raw.githubusercontent.com/j796160836/SunsetInfo/master/screenshots/picture01.png" width="550" />
+
+### app 實際畫面
+
+<img src="https://raw.githubusercontent.com/j796160836/SunsetInfo/master/screenshots/picture02.png" width="550" />
+
+
 ### 使用範例地點座標
 
 #### 高雄 K Square
